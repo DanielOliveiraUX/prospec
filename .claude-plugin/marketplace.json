@@ -1,0 +1,21 @@
+{
+  "name": "arrecheneto-plugins",
+  "owner": {
+    "name": "Helio Arreche"
+  },
+  "metadata": {
+    "description": "Plugins de IA para negócios do Helio Arreche",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "prospector-de-sites",
+      "source": "./prospector-de-sites",
+      "description": "Prospecção semi-automática: encontra negócios bem avaliados com sites ruins no Google Maps, redesenha as páginas com estética premium (com editor visual), publica no GitHub com deploy automático na Vercel e cria a proposta por e-mail no Gmail. Leads salvos em planilha do Google Sheets.",
+      "author": {
+        "name": "Helio Arreche"
+      },
+      "keywords": ["prospeccao", "landing-page", "redesign", "github", "vercel", "google-maps", "gmail"]
+    }
+  ]
+}
