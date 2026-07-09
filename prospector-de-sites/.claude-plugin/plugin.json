@@ -1,0 +1,9 @@
+{
+  "name": "prospector-de-sites",
+  "version": "0.4.2",
+  "description": "Prospecção semi-automática de clientes: encontra negócios bem avaliados com sites ruins no Google Maps, redesenha as páginas com estética premium, publica no GitHub com deploy automático na Vercel e envia proposta por e-mail via Gmail. Leads salvos em planilha do Google Sheets.",
+  "author": {
+    "name": "Helio Arreche"
+  },
+  "keywords": ["prospeccao", "landing-page", "redesign", "github", "vercel", "google-maps", "gmail"]
+}
